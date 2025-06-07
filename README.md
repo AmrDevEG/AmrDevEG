@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <h1 align="center">Hi there, I'm Amr 👋</h1>
-  <h3 align="center">A Programmer, Game, Website and Software Maker from Egypt 🇪🇬</h3>
+  <h3 align="center">A Programmer, Game, Website and Software Maker, Video editor and motion graphics designer and other things from Egypt 🇪🇬</h3>
 </div>
 
 ---

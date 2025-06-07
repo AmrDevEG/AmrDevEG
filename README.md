@@ -29,7 +29,7 @@
     <img align="center" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="@Amr_x64"/>
   </a>
   <!-- Instagram -->
-  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="blank">
+  <a href="https://www.instagram.com/amr_x64/" target="amr_x64">
     <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="YOUR_INSTAGRAM_USERNAME"/>
   </a>
 </p>

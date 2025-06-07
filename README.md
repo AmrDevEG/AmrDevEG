@@ -12,7 +12,7 @@
   <a href="https://www.youtube.com/@Amr_GamingX1" target="blank">
     <img align="center" src="https://img.shields.io/badge/YouTube Gaming-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@Amr_GamingX1"/>
   </a>
-  <!-- YouTube - Dev -->
+  <!-- YouTube - Montage  -->
   <a href="https://www.youtube.com/@amr_x64" target="blank">
     <img align="center" src="https://img.shields.io/badge/YouTube Dev-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@amr_x64"/>
   </a>
@@ -34,7 +34,7 @@
   </a>
 </p>
 
-**ملاحظة هامة:** أنا سبتلك مكان الانستقرام فاضي، كل اللي عليك تعمله هو تغيير `YOUR_INSTAGRAM_USERNAME` لاسم حسابك على انستقرام.
+
 
 ---
 
